@@ -45,6 +45,7 @@
     color: white;
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
+    
   }
   .navbar__nav__items {
     display: flex;
